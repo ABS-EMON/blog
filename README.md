@@ -4,8 +4,9 @@ This is my laravel Blog Project with CRUD Operation
 
 <p align="center">
   <a href="https://youtu.be/MkDxbiOzl5Q">
-    <img src="https://img.youtube.com/vi/MkDxbiOzl5Q/hqdefault.jpg" alt="Watch the gameplay video" />
+    <img src="https://img.youtube.com/vi/MkDxbiOzl5Q/hqdefault.jpg" alt="Watch the gameplay video" style="width:100%; max-width:600px;">
   </a>
 </p>
+
 
 
